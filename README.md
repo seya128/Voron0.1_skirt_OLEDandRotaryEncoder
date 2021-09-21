@@ -10,6 +10,8 @@ Voron0.1: 0.96インチOLE&ロータリーエンコーダーをスカートに�
 
 ![](https://lh3.googleusercontent.com/pw/AM-JKLUa29zlLT2KxyyMOFPrNFHUB7pVaBCQ0jx93d9z1sD-2Pm9NumYofZdoahV5gYJLzxdAPNMBQ-KcJUDb9Q0Y8ulqfuTxBrqJnT08GsU5iouSp8s9xaEi5ySqwcCHGY_AYlwFMVi4N0DukI5TswOOJcUtg=w1862-h1396-no?authuser=0)
 
+![](https://lh3.googleusercontent.com/pw/AM-JKLWvL0aeBWh2c1PdiNqo3ibHimNkRQnE9nRxe5Mi1p7YGBxNmHK3bNGxu6pcc2fgzeghbeeb54kZMNCm3nFUpD3Z_KFJDCp2oRyqtA3HOzrXmYNYJzWrSYfdPUP0SsC8ObCjZ_s4vr-QokYVj23S1BRImA=w1710-h1282-no?authuser=0)
+
 
 ## 部品
 
