@@ -4,9 +4,12 @@ Voron0.1: 0.96インチOLE&ロータリーエンコーダーをスカートに�
 
 ## 完成形
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLUa29zlLT2KxyyMOFPrNFHUB7pVaBCQ0jx93d9z1sD-2Pm9NumYofZdoahV5gYJLzxdAPNMBQ-KcJUDb9Q0Y8ulqfuTxBrqJnT08GsU5iouSp8s9xaEi5ySqwcCHGY_AYlwFMVi4N0DukI5TswOOJcUtg=w1862-h1396-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AM-JKLWAeLY6J0zCKWsaU6-67nQhrOcO7DBMcaaFZNo0lTLi2wQ7cS_buycB8FoK7Mi3MkMJ-BD5KUr9pSz1hUhJ11fWlduUkPeYNGsmTcVEwvWWxqFZrhfeptw7g7GWawqD-mefD66oyOkp2gM7bITXsHlBKw=w2280-h1282-no?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AM-JKLWp7u0AnxuRPEtOBp7HHSif7LcfO-WyPcofeiDew3Ii30fGiI5VHJx_Mv5NdaG7HSUVi5kFOX2lCJBSZXsFGhxJBzLY-2N_A-vG8e8AdvAVAn17XPrewFtGtwKNyaqr93QIpyomiUxnVDoEj56wChLGQg=w1048-h1396-no?authuser=0)
+
+![](https://lh3.googleusercontent.com/pw/AM-JKLUa29zlLT2KxyyMOFPrNFHUB7pVaBCQ0jx93d9z1sD-2Pm9NumYofZdoahV5gYJLzxdAPNMBQ-KcJUDb9Q0Y8ulqfuTxBrqJnT08GsU5iouSp8s9xaEi5ySqwcCHGY_AYlwFMVi4N0DukI5TswOOJcUtg=w1862-h1396-no?authuser=0)
+
 
 ## 部品
 
