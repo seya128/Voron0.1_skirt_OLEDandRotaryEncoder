@@ -107,3 +107,10 @@ click_pin: !rpi:gpio4
 * [VoronUsers/printer_mods/mpfl/V0.1_skirt_OLED at master · VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/mpfl/V0.1_skirt_OLED)
 
 * [Customizable Knob! by charliearmorycom](https://www.thingiverse.com/thing:54024)
+
+## 投げ銭
+
+[Amazonギフト券](https://amzn.to/39yuS50)  
+受取人に、 `giftforseya+v01OLED@gmail.com`を入れてください。  
+15円から投げ銭可能ですので、気に入ったらよろしくお願いします。
+
