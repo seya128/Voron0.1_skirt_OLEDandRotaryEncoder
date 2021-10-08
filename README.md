@@ -2,6 +2,9 @@
 
 Voron0.1: 0.96インチOLE&ロータリーエンコーダーをスカートに内蔵
 
+OLEDとロータリエンコーダーは、MCUボードを経由せずにRaspberryPiに直接配線するので、MCUボードの種類に関係なく設定できます。  
+なので、Voron0.1以外でもKlipperで動作する3Dプリンターに応用できます。
+
 ## 完成形
 
 ![](https://lh3.googleusercontent.com/pw/AM-JKLWAeLY6J0zCKWsaU6-67nQhrOcO7DBMcaaFZNo0lTLi2wQ7cS_buycB8FoK7Mi3MkMJ-BD5KUr9pSz1hUhJ11fWlduUkPeYNGsmTcVEwvWWxqFZrhfeptw7g7GWawqD-mefD66oyOkp2gM7bITXsHlBKw=w2280-h1282-no?authuser=0)
@@ -102,6 +105,8 @@ encoder_pins: rpi:gpio17, rpi:gpio27
 click_pin: !rpi:gpio4
 ```
 
+※以下の手順でセカンダリーMCUとしてRaspberryPiを指定できるようにしておく必要があります。  
+[RPi microcontroller \- Klipper documentation](https://www.klipper3d.org/RPi_microcontroller.html)
 ## 元にしたSTLデータ
 
 * [VoronUsers/printer_mods/mpfl/V0.1_skirt_OLED at master · VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/mpfl/V0.1_skirt_OLED)
