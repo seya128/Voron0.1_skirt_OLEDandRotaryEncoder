@@ -107,6 +107,9 @@ click_pin: !rpi:gpio4
 
 ※以下の手順でセカンダリーMCUとしてRaspberryPiを指定できるようにしておく必要があります。  
 [RPi microcontroller \- Klipper documentation](https://www.klipper3d.org/RPi_microcontroller.html)
+
+※`sudo raspi-config` - [インターフェイスオプション]メニューで`i2c`を有効にする必要もあります。
+
 ## 元にしたSTLデータ
 
 * [VoronUsers/printer_mods/mpfl/V0.1_skirt_OLED at master · VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/mpfl/V0.1_skirt_OLED)
