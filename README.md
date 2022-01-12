@@ -116,6 +116,51 @@ click_pin: !rpi:gpio4
 
 * [Customizable Knob! by charliearmorycom](https://www.thingiverse.com/thing:54024)
 
+## ちょっと便利なメニュー
+
+### BED SCREW ADJUST
+BEDのレベル調整に使う、「BED_SCREW_ADJUST」をメニューから使う設定です。
+`Home All` `Adjusted` `Abort` が、コンソールからでなく、メニューから操作できるのでとっても便利。
+
+menu.cfg に以下追加で、Setup-Calibrationに追加されます。
+```
+[menu __main __setup __calib]
+type: list
+name: Calibration
+
+[menu __main __setup __calib __bed_screw_adjust]
+type: list
+enable: {not printer.idle_timeout.state == "Printing"}
+name: Bed Screw Adjust
+index: 1
+
+[menu __main __setup __calib __bed_screw_adjust __home]
+type: command
+enable: {not printer.idle_timeout.state == "Printing"}
+name: Home All
+gcode: G28
+
+[menu __main __setup __calib __bed_screw_adjust __start]
+type: command
+enable: {not printer.idle_timeout.state == "Printing"}
+name: Start BedScrewAdjust
+gcode:
+    BED_SCREWS_ADJUST
+
+[menu __main __setup __calib __bed_screw_adjust __adjusted]
+type: command
+name: Adjusted
+gcode:
+    ADJUSTED
+
+[menu __main __setup __calib __bed_screw_adjust __abort]
+type: command
+name: Abort
+gcode:
+    ABORT
+```
+
+
 ## 投げ銭
 
 [Amazonギフト券](https://amzn.to/39yuS50)  
