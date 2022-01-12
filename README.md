@@ -167,3 +167,6 @@ gcode:
 受取人に、 `giftforseya+v01OLED@gmail.com`を入れてください。  
 15円から投げ銭可能ですので、気に入ったらよろしくお願いします。
 
+## キット、パーツ販売
+キットやパーツの販売も始めました。
+https://seya-factory.booth.pm/items/3550556
